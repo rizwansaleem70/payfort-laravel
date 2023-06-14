@@ -14,7 +14,7 @@
       "email": "rizwansaleem70@gmail.com"
     }
   ],
-  "prefer-stable": true,
+  "minimum-stability" : "dev",
   "type": "library",
   "license": "MIT",
   "require": {
