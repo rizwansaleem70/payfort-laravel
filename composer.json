@@ -14,7 +14,6 @@
       "email": "rizwansaleem70@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
   "prefer-stable": true,
   "type": "library",
   "license": "MIT",
@@ -23,9 +22,6 @@
     "illuminate/support": "^10.0",
     "nesbot/carbon": "^2.0",
     "guzzlehttp/guzzle": "^7.2"
-  },
-  "require-dev": {
-    "phpunit/phpunit": "^10.1"
   },
   "autoload": {
     "psr-4": {
