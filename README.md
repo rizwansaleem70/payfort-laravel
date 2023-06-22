@@ -20,7 +20,7 @@ will not write about `Payfort` operations, what and how to use.
 
 You can install the package via composer:
 ```bash
-composer require wshurafa/laravel-payfort
+composer require rizwansaleem70/laravel-payfort
 ```
 
 You can publish the config file with:
